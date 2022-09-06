@@ -1,0 +1,6 @@
+# ignore all directories with data
+Videos
+test_results
+Data
+*.h5
+*.rar
